@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const completedMiles = 23.93;
+const completedMiles = 31.34;
 const totalMiles = 62;
 const totalSteps = 57094;
 const progress = completedMiles / totalMiles * 100;      
@@ -99,7 +99,7 @@ export default function Home() {
             </div>
 
             <div className='grid lg:grid-cols-3 gap-8'>
-              <Image className='mr-8' src='/27th.jpg' alt='sunset over fields' width='227' height='340'/>
+              <Image className='mr-8' src='/27th.jpg' alt='sunset over fields' width='270' height='390'/>
               <div className='col-span-2'>
                 <h3 className='text-2xl font-bold'>The walk with the swing...</h3>
                 <p className='font-bold mb-4'>26/12/2022 – 4.61m – 11625 steps</p>
@@ -119,7 +119,28 @@ export default function Home() {
                 </p>
               </div>
             </div>
-
+         
+           <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/beach.jpg' alt='beach' width='300' height='370'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>Happy New Year...</h3>
+                <p className='font-bold mb-4'>01/01/2023 – 4.71m – 12238 steps</p>
+                <p className='text-2xl'>
+                  Today I went on a car ride to heacham. We arived and got some chips and then we went on a long walk along the beach to hunstanton. On our walk we saw people swimming in the sea! When we got to hunstanton we went in the arcades and got some hot donuts because all the shops were closed for new years day. I still had a very fun time though.
+                </p>
+              </div>
+            </div>
+           
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/sunset.jpg' alt='sunset over fields' width='260' height='320'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>Dog walk...</h3>
+                <p className='font-bold mb-4'>02/01/2023 – 2.70m – 6680 steps</p>
+                <p className='text-2xl'>
+                  Today I took my dog for a walk over the fields. Me and my dad left just before the sun went down so we took some great pictures. The sky was very pretty. My dog really enjoyed running around.
+                </p>
+              </div>
+            </div>
 
 
           </div>
