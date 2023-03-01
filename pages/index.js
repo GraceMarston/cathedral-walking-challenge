@@ -5,9 +5,9 @@ import styles from '../styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const completedMiles = 31.34;
+const completedMiles = 34.73;
 const totalMiles = 62;
-const totalSteps = 57094;
+const totalSteps = 65042;
 const progress = completedMiles / totalMiles * 100;      
 
 export default function Home() {
@@ -141,7 +141,17 @@ export default function Home() {
                 </p>
               </div>
             </div>
-
+           
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/dog.jpg' alt='cute dog running' width='260' height='320'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>wipe out...</h3>
+                <p className='font-bold mb-4'>18/02/2023 – 3.39m – 7948 steps</p>
+                <p className='text-2xl'>
+                  Today I went on a walk with my Dad and my brother. The walk started off calmly and we were all enjoying the sunset. However the mood soon changed. As we were walking up a country lane our dog, Barley, got so excited to see some other dogs he sprinted straight into the back of my brother's legs. As he fell to the floor I couldnt help but laugh (he was okay). But after that we carried on with our lovely walk and had fun in the fields.
+                </p>
+              </div>
+            </div>
 
           </div>
 
