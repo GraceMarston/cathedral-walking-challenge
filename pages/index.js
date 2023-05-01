@@ -5,9 +5,9 @@ import styles from '../styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const completedMiles = 34.73;
+const completedMiles = 58.26;
 const totalMiles = 62;
-const totalSteps = 65042;
+const totalSteps = 134464;
 const progress = completedMiles / totalMiles * 100;      
 
 export default function Home() {
@@ -82,7 +82,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>Bow and arrow...</h3>
                 <p className='font-bold mb-4'>03/12/2022 – 3.00m – 7381 steps</p>
                 <p className='text-2xl'>
-                 Today I went to East Hills Woods it is a delightful hilly and bumpy stretch of woodland in Costessey. On the way I went to the co-op to buy some string, I had a plan! I wanted to make a bow and arrow out of sticks and string. We didnt have much time as we arrived later than we hoped and it was getting dark but i still managed to make a cool bow and arrow and it worked!...sort of, well the arrows went like 30cm but me and my brother still had fun.
+                 Today I went to East Hills Woods. It is a delightful hilly and bumpy stretch of woodland in Costessey. On the way I went to the co-op to buy some string... I had a plan! I wanted to make a bow and arrow out of sticks and string. We didnt have much time as we arrived later than we hoped and it was getting dark but I still managed to make a cool bow and arrow and it worked!...sort of, well the arrows went like 30cm but me and my brother still had fun.
                 </p>
               </div>
             </div>
@@ -126,7 +126,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>Happy New Year...</h3>
                 <p className='font-bold mb-4'>01/01/2023 – 4.71m – 12238 steps</p>
                 <p className='text-2xl'>
-                  Today I went on a car ride to heacham. We arived and got some chips and then we went on a long walk along the beach to hunstanton. On our walk we saw people swimming in the sea! When we got to hunstanton we went in the arcades and got some hot donuts because all the shops were closed for new years day. I still had a very fun time though.
+                  Today I went on a car ride to Heacham. We arrived and got some chips and then we went on a long walk along the beach to Hunstanton. On our walk we saw people swimming in the sea! When we got to Hunstanton we went in the arcades and got some hot donuts because all the shops were closed for New Years day. I still had a very fun time though.
                 </p>
               </div>
             </div>
@@ -137,7 +137,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>Dog walk...</h3>
                 <p className='font-bold mb-4'>02/01/2023 – 2.70m – 6680 steps</p>
                 <p className='text-2xl'>
-                  Today I took my dog for a walk over the fields. Me and my dad left just before the sun went down so we took some great pictures. The sky was very pretty. My dog really enjoyed running around.
+                  Today I took my dog for a walk over the fields. Me and my Dad left just before the sun went down so we took some great pictures. The sky was very pretty. My dog really enjoyed running around.
                 </p>
               </div>
             </div>
@@ -145,10 +145,65 @@ export default function Home() {
             <div className='grid lg:grid-cols-3 gap-8'>
               <Image className='mr-8' src='/dog.jpg' alt='cute dog running' width='260' height='320'/>
               <div className='col-span-2'>
-                <h3 className='text-2xl font-bold'>wipe out...</h3>
+                <h3 className='text-2xl font-bold'>Wipe out...</h3>
                 <p className='font-bold mb-4'>18/02/2023 – 3.39m – 7948 steps</p>
                 <p className='text-2xl'>
-                  Today I went on a walk with my Dad and my brother. The walk started off calmly and we were all enjoying the sunset. However the mood soon changed. As we were walking up a country lane our dog, Barley, got so excited to see some other dogs he sprinted straight into the back of my brother&apos;s legs. As he fell to the floor I couldnt help but laugh (he was okay). But after that we carried on with our lovely walk and had fun in the fields.
+                  Today I went on a walk with my Dad and my brother. The walk started off calmly and we were all enjoying the sunset. However, the mood soon changed. As we were walking up a country lane our dog Barley got so excited to see some other dogs he sprinted straight into the back of my brother&apos;s legs. As he fell to the floor I couldnt help but laugh (he was okay). After that we carried on with our lovely walk and had fun in the fields.
+                </p>
+              </div>
+            </div>
+
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/puddles.jpg' alt='puddles' width='260' height='320'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>Splish Splash Splosh ...</h3>
+                <p className='font-bold mb-4'>14/03/2023 – 2.72m – 6049 steps</p>
+                <p className='text-2xl'>
+                  Today it was very wet outside from the rain yesterday, but I went on a walk anyway. My brother went Pokemon hunting whilst I walked with my Dad and dog. My dog really liked the puddles from the rain. On the farm track we were walking along there were about 10 puddles all in a row and Barley our crazy cockapoo decided to jump in all 10 of them.
+                </p>
+              </div>
+            </div>
+
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/UEA.jpg' alt='UEA lake' width='340' height='390'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>UEA lakes ...</h3>
+                <p className='font-bold mb-4'>26/03/2023 – 6.13m – 13931 steps</p>
+                <p className='text-2xl'>
+                  Today I went to the UEA lakes for the first time and it was huge! We saw lots of people walking their dogs and lots of students walking around. On our way home we followed the river towards Bowthorpe and in the fields we walked through there were horses roaming free. I was a little scared but they didn't take any notice of me. 
+                </p>
+              </div>
+            </div>
+
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/highlodge.jpg' alt='high lodge forest' width='280' height='320'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>High Lodge ...</h3>
+                <p className='font-bold mb-4'>16/04/2023 – 5.00m – 11254 steps</p>
+                <p className='text-2xl'>
+                  Today we went to High Lodge. We arrived around lunchtime so we sat and ate our picnic first. It was very yummy. Me and my brother went on the amazing park, which was very fun. We then headed into the forest. We took a dog ball thrower for our dog. My brother threw the ball around 100 times before finally losing the ball. Luckily we found another ball which was bright blue and squeaked so we would a lot more trouble losing this one! On the way back from our walk we walked past the archery hut and I had to have a go! I am a pro. I got 2 bullseyes not even kidding! My brother didn't get a bullseye so he was grumpy for the rest of the day. I really enjoyed todays walk.
+                </p>
+              </div>
+            </div>
+
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/bb.jpg' alt='rope swing in forest' width='350' height='410'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>Secret rope swing ...</h3>
+                <p className='font-bold mb-4'>29/04/2023 – 4.09m – 9192 steps</p>
+                <p className='text-2xl'>
+                  Today my brother went round his friends house so I went on a walk with my Dad. It was very quiet and peaceful until we had to pick up my brother. We decided to go on an extra long walk and go through Cosstessy woods. We saw lots of cute dogs and then at the last minute we decided to take a different route back. We saw lots of animals carved into wood. They were really cool. There were crocodiles, snakes, worms and frogs. The arrival of spring brought out the beautiful bluebells and they looked even prettier in the golden sunlight. But the best bit of the walk was when we found a secret rope swing! It was so fun. Me and my brother spent over half an hour just playing on it. This was by far my favorite walk of my challenge so far.
+                </p>
+              </div>
+            </div>
+
+            <div className='grid lg:grid-cols-3 gap-8'>
+              <Image className='mr-8' src='/elmhill.jpg' alt='norwich cathedral' width='350' height='410'/>
+              <div className='col-span-2'>
+                <h3 className='text-2xl font-bold'>City walk ...</h3>
+                <p className='font-bold mb-4'>30/04/2023 – 4.59m – 10078 steps</p>
+                <p className='text-2xl'>
+                  Today I took my Mum to work and then me, my Dad and my brother went on a walk around the city. We went down Elm Hill which is the oldest road in Norwich. There were lots of old buildings which have been used as the filming location for a couple of movies that I have seen. The road was full of antique shops and one had lots of old coins up the window. We also went in Norwich Cathedral and the archway we walked through had faces on the ceiling. The inside of the Cathedral was very pretty with all the windows and we saw all the Vicars and Bishops getting ready for the sunday service. Todays walk was very interesting.
                 </p>
               </div>
             </div>
