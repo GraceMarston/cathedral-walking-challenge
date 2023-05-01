@@ -170,7 +170,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>UEA lakes ...</h3>
                 <p className='font-bold mb-4'>26/03/2023 – 6.13m – 13931 steps</p>
                 <p className='text-2xl'>
-                  Today I went to the UEA lakes for the first time and it was huge! We saw lots of people walking their dogs and lots of students walking around. On our way home we followed the river towards Bowthorpe and in the fields we walked through there were horses roaming free. I was a little scared but they didn't take any notice of me. 
+                  Today I went to the UEA lakes for the first time and it was huge! We saw lots of people walking their dogs and lots of students walking around. On our way home we followed the river towards Bowthorpe and in the fields we walked through there were horses roaming free. I was a little scared but they didn&apos;t take any notice of me. 
                 </p>
               </div>
             </div>
@@ -181,7 +181,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>High Lodge ...</h3>
                 <p className='font-bold mb-4'>16/04/2023 – 5.00m – 11254 steps</p>
                 <p className='text-2xl'>
-                  Today we went to High Lodge. We arrived around lunchtime so we sat and ate our picnic first. It was very yummy. Me and my brother went on the amazing park, which was very fun. We then headed into the forest. We took a dog ball thrower for our dog. My brother threw the ball around 100 times before finally losing the ball. Luckily we found another ball which was bright blue and squeaked so we would a lot more trouble losing this one! On the way back from our walk we walked past the archery hut and I had to have a go! I am a pro. I got 2 bullseyes not even kidding! My brother didn't get a bullseye so he was grumpy for the rest of the day. I really enjoyed todays walk.
+                  Today we went to High Lodge. We arrived around lunchtime so we sat and ate our picnic first. It was very yummy. Me and my brother went on the amazing park, which was very fun. We then headed into the forest. We took a dog ball thrower for our dog. My brother threw the ball around 100 times before finally losing the ball. Luckily we found another ball which was bright blue and squeaked so we would a lot more trouble losing this one! On the way back from our walk we walked past the archery hut and I had to have a go! I am a pro. I got 2 bullseyes not even kidding! My brother didn&apos;t get a bullseye so he was grumpy for the rest of the day. I really enjoyed todays walk.
                 </p>
               </div>
             </div>
