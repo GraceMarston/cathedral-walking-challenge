@@ -214,7 +214,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>Spooky walk ...</h3>
                 <p className='font-bold mb-4'>07/05/2023 – 3.07m – 8327 steps</p>
                 <p className='text-2xl'>
-                  Today the weather was warm and dry although it had rained really heavily the night before and the roads were still wet. Me and my Dad talked about ghost stories as my Dad had been listening to an new podcast about the supernatural. It was scary but I just needed to hear more ... he's hoping I will sleep well tonigh! HAHAHAHA!
+                  Today the weather was warm and dry although it had rained really heavily the night before and the roads were still wet. Me and my Dad talked about ghost stories as my Dad had been listening to an new podcast about the supernatural. It was scary but I just needed to hear more ... he&apos;s hoping I will sleep well tonigh! HAHAHAHA!
                 </p>
               </div>
             </div>
