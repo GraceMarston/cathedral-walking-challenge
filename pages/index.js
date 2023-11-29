@@ -237,7 +237,7 @@ export default function Home() {
                   because our group was too small to go alone with only three of us so we all hopped in the bus and went back to the 
                   campsite. Not long after all the groups were back and we all played some nice games together. After we had played 
                   for hours I had to cook my dinner, pasta from a bag. Personally, I think I did very well as I only burnt a little 
-                  bit of it and it actually was edible. Then we all started getting ready for bed when all of a sudden &ldquo;somebody's&ldquo; 
+                  bit of it and it actually was edible. Then we all started getting ready for bed when all of a sudden &ldquo;somebody&apos;s&ldquo; 
                   nose starts gushing with blood AGAIN!!! But bless her it was a hard time. Then we went to bed and had a terrible 
                   sleep.
                 </p>
