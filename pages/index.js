@@ -214,7 +214,7 @@ export default function Home() {
                 <h3 className='text-2xl font-bold'>Spooky walk ...</h3>
                 <p className='font-bold mb-4'>07/05/2023 – 3.07m – 8327 steps</p>
                 <p className='text-2xl'>
-                  Today the weather was warm and dry although it had rained really heavily the night before and the roads were still wet. Me and my Dad talked about ghost stories as my Dad had been listening to an new podcast about the supernatural. It was scary but I just needed to hear more ... he&apos;s hoping I will sleep well tonigh! HAHAHAHA!
+                  Today the weather was warm and dry although it had rained really heavily the night before and the roads were still wet. Me and my Dad talked about ghost stories as my Dad had been listening to an new podcast about the supernatural. It was scary but I just needed to hear more ... he is hoping I will sleep well tonight! HAHAHAHA!
                 </p>
               </div>
             </div>
@@ -230,13 +230,13 @@ export default function Home() {
                   We found the way though. Until we got stuck at a golf course for about 15 minutes with another group. It was funny 
                   though. Eventually some teachers found us and my group got to eat lunch early!!! We then carried on our jouney 
                   although we were already tired and wanted to go home BUT we persevered. Luckily, we bumped into another group so we 
-                  decided to keep eachother company and walk together. I shared out all my buiscuits and everyone enjoyed a little 
-                  energy boost, thanks to me. Then we sat down for a quick little break and had some water a snacks. Next thing I 
+                  decided to keep each other company and walk together. I shared out all my biscuits and everyone enjoyed a little 
+                  energy boost, thanks to me. Then we sat down for a quick break and had some water and snacks. Next thing I 
                   know another member of the groups nose is gushing with blood thanks alot &ldquo;other member of the group&ldquo; but I was a 
                   nice friend and stayed with her until the teachers arrived. Unfortunately we didnt get to finish our first walk 
-                  because our group was too small to go alone with only three of us so we all hopped in the bus and went back to the 
-                  campsite. Not long after all the groups were back and we all played some nice games together. After we had played 
-                  for hours I had to cook my dinner, pasta from a bag. Personally, I think I did very well as I only burnt a little 
+                  because our group was too small to go alone with only three of us so we all hopped on the bus and went back to the 
+                  campsite. Not long after all the groups were back and we all played some nice games together. After we played 
+                  for a few hours I had to cook my dinner, pasta in a bag. Personally, I think I did very well as I only burnt a little 
                   bit of it and it actually was edible. Then we all started getting ready for bed when all of a sudden &ldquo;somebody&apos;s&ldquo; 
                   nose starts gushing with blood AGAIN!!! But bless her it was a hard time. Then we went to bed and had a terrible 
                   sleep.
@@ -249,22 +249,22 @@ export default function Home() {
               <div className='col-span-2'>
                 <h3 className='text-2xl font-bold'>Day 2 !</h3>
                <p className='text-2xl'>
-                  YAYYY day 2 ! Great start to the day we all woke up last and we all left last. I had an apple and some dry cherios 
-                  for breakfast at the start of our walk. We did alot better this day navigating but we still all took turns. We 
-                  started walking through nice peaceful fields but ended up having to walk up a huge main road. However we did so, 
-                  safefly. I got stung by loads of stinging nettles this day. However this wasnt the wost pain i felt. I was walking 
+                  YAYYY day 2 ! Great start to the day. We all woke up last and we all left last. I had an apple and some dry cheerios 
+                  for breakfast at the start of our walk. We did alot better navigating this day, we all took turns. We 
+                  started walking through nice peaceful fields but ended up having to walk up a huge main road. However, we did so
+                  safely. I got stung by loads of stinging nettles this day. However, this wasnt the wost pain I felt. I was walking 
                   along the road nice and calmly when I saw a farm sign with the same name as my road and I must have gotten a bit 
-                  too excited because next thing I know I get a sharp pain in my arm and I thought &ldquo;what wass that?&ldquo;. Then I look 
+                  too excited because next thing I know I get a sharp pain in my arm and I thought &ldquo;what was that?&ldquo;. Then I look 
                   down and I see a poor little bee crawling out of my tshirt sleeve. I was very upset until someone in the group 
-                  game me a plaster, which made me feel a little bit better, but I still felt bad for the bee. However I found it 
-                  so bizarre because earlier we had walked through a whole forrest full of bees and none of them stung me but when 
-                  we were all alone on a little roud one did. What the Heck??? Anyways after that I got my photo taken by one of my 
-                  friends and we carried on. But a magical experience happend to all of us. Just as we were going to give up I wished 
-                  for a miricle, for some energy THEN... its like the universe knew! We all suddenly got a bust of energy we walked 
+                  gave me a plaster, which made me feel a little bit better, but I still felt bad for the bee. I found it 
+                  so bizarre because earlier we had walked through a whole forest full of bees and none of them stung me but when 
+                  we were all alone on a little road one did. What the Heck??? Anyways, after that I got my photo taken by one of my 
+                  friends and we carried on. But a magical experience happened to all of us. Just as we were going to give up I wished 
+                  for a miracle, for some energy THEN... its like the universe knew! We all suddenly got a burst of energy and we then walked 
                   for ages and when we finally sat down for a drink a baby deer just ran across the road right infront of us. Then 
                   we continued and found a lucky horse shoe on the ground. It was like it was waiting for us! The next thing we knew 
-                  we were almost back and when we eventally arrived back at the campsite we got to have a nice, relaxing sit down. 
-                  And we werent last !!!! 
+                  we were almost back and when we eventually arrived back at the campsite. We got to have a nice, relaxing sit down. 
+                  And we weren't last !!!! 
                 </p>
               </div>
             </div>
