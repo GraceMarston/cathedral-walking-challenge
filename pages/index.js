@@ -264,7 +264,7 @@ export default function Home() {
                   for ages and when we finally sat down for a drink a baby deer just ran across the road right infront of us. Then 
                   we continued and found a lucky horse shoe on the ground. It was like it was waiting for us! The next thing we knew 
                   we were almost back and when we eventually arrived back at the campsite. We got to have a nice, relaxing sit down. 
-                  And we weren't last !!!! 
+                  And we weren&apos;t last !!!! 
                 </p>
               </div>
             </div>
